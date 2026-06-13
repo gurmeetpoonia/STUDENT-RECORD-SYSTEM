@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a C++ based Student Record Management System developed to manage student information efficiently.
+This is a C based Student Record Management System developed to manage student information efficiently.
 
 ## Features
 
@@ -14,13 +14,13 @@ This is a C++ based Student Record Management System developed to manage student
 
 ## Technologies Used
 
-* C++
+* C
 * File Handling
 * Structures
 
 ## How to Run
 
-1. Open the project in a C++ compiler.
+1. Open the project in a C compiler.
 2. Compile the source code.
 3. Run the executable file.
 
